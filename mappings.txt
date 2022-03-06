@@ -1,3 +1,4 @@
+These mappings are for Lunar Client commit 1.8.9-85a12cc
 
 net.minecraft.v1_8.eahheeahppaessshshshpehss : net/minecraft/command/server/CommandTestForBlock
 net.minecraft.v1_8.haahaheeaphhhapesahsaases$phhaaehheashhsaasepaeephs : net/minecraft/world/gen/structure/StructureStrongholdPieces$Stones
